@@ -3,7 +3,7 @@ name: "User Story"
 about: "Describe a new feature in user-story format"
 type: "Backlog"
 labels: "Backlog: User Story"
-projects: "Sprint Goals"
+projects: "EnergySavingCostEstimator"
 assignees: ''
 
 ---
