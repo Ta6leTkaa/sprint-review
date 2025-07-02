@@ -1,8 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+type: Backlog
+labels: Backlog: User Story
+projects: Sprint Goals
 assignees: ''
 
 ---
