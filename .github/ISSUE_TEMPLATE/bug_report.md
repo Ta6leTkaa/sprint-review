@@ -5,7 +5,6 @@ type: Backlog
 labels: Backlog: User Story
 projects: Sprint Goals
 assignees: ''
-
 ---
 
 **Describe the bug**
